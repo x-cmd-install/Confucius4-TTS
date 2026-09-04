@@ -1,26 +1,28 @@
 about:
-  description: Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
+  description:
+  |
+    Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
   license: NOASSERTION
   homepage: 
   head: 4fb32c4
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T04:52:48Z
+  collectedAt: 2026-09-04T19:51:20Z
 timeline:
   created: 2026-05-19
   lastCommit: 2026-09-03
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 790
   watcher: 5
   fork: 83
   release: 0
   contributor: 5
-  pullRequest: 0
+  pullRequest: 6
   issue: 15
 language:
   Python: 282422
-totalLine: 282422
+totalBytes: 282422
 recent:
   last30d:
     since: 2026-08-05
@@ -30,6 +32,14 @@ recent:
     closedIssue: 0
     openIssue: 1
     commit: 5
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 4
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 12
   last90d:
     since: 2026-06-06
     release: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 4
     openIssue: 11
     commit: 31
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 4
+    openIssue: 11
+    commit: 37
+total:
+  release: 0
+  mergedPR: 6
+  openPR: 0
+  closedIssue: 4
+  openIssue: 11
+  commit: 37
+---
+---
+
