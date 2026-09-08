@@ -5,7 +5,7 @@ about:
   head: 4fb32c4
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T02:15:28Z
+  collectedAt: 2026-09-08T05:01:18Z
 timeline:
   created: 2026-05-19
   lastCommit: 2026-09-03
@@ -79,7 +79,7 @@ total:
   commit: 37
 ---
 path: /home/runner/.x-repo/github.com/netease-youdao/Confucius4-TTS
-collectedAt: 2026-09-08T02:15:28Z
+collectedAt: 2026-09-08T05:01:19Z
 loc:
   Json:
     code: 268172
