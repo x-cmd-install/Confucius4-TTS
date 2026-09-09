@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:14:12Z
+  collectedAt: 2026-09-09T19:28:59Z
 timeline:
   created: 2026-05-19
   lastCommit: 2026-09-03
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 794
+  star: 793
   watcher: 5
   fork: 84
   release: 0
@@ -83,7 +83,7 @@ total:
   commit: 37
 ---
 path: /home/runner/.x-repo/github.com/netease-youdao/Confucius4-TTS
-collectedAt: 2026-09-09T05:14:13Z
+collectedAt: 2026-09-09T19:28:59Z
 loc:
   Json:
     code: 268172
