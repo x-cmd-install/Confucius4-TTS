@@ -12,6 +12,18 @@ Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
 x install Confucius4-TTS
 ```
 
+## Code insight
+
+Total: **276,249** lines of code across **72** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 268,172 | 0 | 13 | 4 |
+| Python | 7,646 | 360 | 1,234 | 62 |
+| Cuda | 185 | 36 | 25 | 1 |
+| Yaml | 159 | 18 | 24 | 3 |
+| CHeader | 82 | 33 | 6 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/netease-youdao/Confucius4-TTS>
@@ -29,21 +41,12 @@ x install Confucius4-TTS
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 5 | 0 | 1 | 10 | 0 |
-| 360d | 2025-09-15 | 0 | 6 | 0 | 4 | 11 | 0 |
-
-## Code size
-
-Total: **276,249** lines of code across **72** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 268,172 | 0 | 13 | 4 |
-| Python | 7,646 | 360 | 1,234 | 62 |
-| Cuda | 185 | 36 | 25 | 1 |
-| Yaml | 159 | 18 | 24 | 3 |
-| CHeader | 82 | 33 | 6 | 2 |
+| 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 1 | 2 |
+| last60d | 2026-07-12 | 0 | 2 | 0 | 0 | 1 | 6 |
+| 90d | 2026-06-12 | 0 | 5 | 0 | 1 | 10 | 20 |
+| last180d | 2026-03-14 | 0 | 6 | 0 | 4 | 11 | 31 |
+| 360d | 2025-09-15 | 0 | 6 | 0 | 4 | 11 | 31 |
+| last720d | 2024-09-20 | 0 | 6 | 0 | 4 | 11 | 37 |
 
 ## Improve this data
 
@@ -54,4 +57,4 @@ Install metadata for Confucius4-TTS lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:08:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:55:49Z._
