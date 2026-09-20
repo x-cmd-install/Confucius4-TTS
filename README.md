@@ -4,7 +4,7 @@
 
 Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
 
-![Confucius4-TTS](https://repo.x-cmd.io/Confucius4-TTS.svg)
+[![x-cmd/install — Confucius4-TTS Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Confucius4-TTS.svg)](https://x-cmd.com/install/Confucius4-TTS)
 
 ## Install
 
@@ -31,7 +31,7 @@ Total: **276,249** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 798 · **Forks**: 86 · **Open issues**: 15 · **Contributors**: 5
+- **Stars**: 800 · **Forks**: 86 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -41,12 +41,12 @@ Total: **276,249** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 2 | 0 | 0 | 1 | 6 |
-| 90d | 2026-06-20 | 0 | 5 | 0 | 1 | 9 | 17 |
-| last180d | 2026-03-22 | 0 | 6 | 0 | 4 | 11 | 31 |
-| 360d | 2025-09-23 | 0 | 6 | 0 | 4 | 11 | 31 |
-| last720d | 2024-09-28 | 0 | 6 | 0 | 4 | 11 | 37 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-22 | 0 | 2 | 0 | 0 | 1 | 5 |
+| 90d | 2026-06-22 | 0 | 5 | 0 | 1 | 6 | 17 |
+| last180d | 2026-03-24 | 0 | 6 | 0 | 4 | 11 | 31 |
+| 360d | 2025-09-25 | 0 | 6 | 0 | 4 | 11 | 31 |
+| last720d | 2024-09-30 | 0 | 6 | 0 | 4 | 11 | 37 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for Confucius4-TTS lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:07:20Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:16:58Z._
