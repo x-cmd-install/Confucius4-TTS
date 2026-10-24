@@ -31,22 +31,22 @@ Total: **276,249** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 845 · **Forks**: 88 · **Open issues**: 15 · **Contributors**: 5
+- **Stars**: 846 · **Forks**: 88 · **Open issues**: 15 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 6 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 11 · **Commits**: 37
+- **Releases**: 0 · **Merged PRs**: 6 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 11 · **Commits**: 39
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-07-25 | 0 | 2 | 0 | 0 | 1 | 6 |
-| last180d | 2026-04-26 | 0 | 6 | 0 | 4 | 11 | 31 |
-| 360d | 2025-10-28 | 0 | 6 | 0 | 4 | 11 | 31 |
-| last720d | 2024-11-02 | 0 | 6 | 0 | 4 | 11 | 37 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 3 |
+| 90d | 2026-07-26 | 0 | 2 | 0 | 0 | 1 | 8 |
+| last180d | 2026-04-27 | 0 | 6 | 0 | 4 | 11 | 33 |
+| 360d | 2025-10-29 | 0 | 6 | 0 | 4 | 11 | 33 |
+| last720d | 2024-11-03 | 0 | 6 | 0 | 4 | 11 | 39 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for Confucius4-TTS lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:59:48Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:48:24Z._
