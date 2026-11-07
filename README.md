@@ -41,12 +41,12 @@ Total: **276,249** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-08 | 0 | 2 | 0 | 0 | 1 | 9 |
-| last180d | 2026-05-10 | 0 | 6 | 0 | 4 | 11 | 35 |
-| 360d | 2025-11-11 | 0 | 6 | 0 | 4 | 11 | 35 |
-| last720d | 2024-11-16 | 0 | 6 | 0 | 4 | 11 | 41 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-09 | 0 | 2 | 0 | 0 | 1 | 9 |
+| last180d | 2026-05-11 | 0 | 6 | 0 | 4 | 11 | 35 |
+| 360d | 2025-11-12 | 0 | 6 | 0 | 4 | 11 | 35 |
+| last720d | 2024-11-17 | 0 | 6 | 0 | 4 | 11 | 41 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for Confucius4-TTS lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:02:57Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:24:15Z._
